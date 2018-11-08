@@ -1,0 +1,5 @@
+language: c 
+rvm:
+ - 4.8
+ - 5.0 
+script: bash make.sh 
